@@ -1,0 +1,14 @@
+{
+  "1": {
+    "LuckyMoney": [
+      "0x43bF78a82Bbc334b42dC2f9708D667d6aDE79eC6",
+      "0xe93577cF0590c3CD7eCeb6cB68d84B2A717c15bB"
+    ],
+    "LuckyMoneyUpgradeableProxy": [
+      "0x43bF78a82Bbc334b42dC2f9708D667d6aDE79eC6"
+    ],
+    "ProxyAdmin": [
+      "0xbEEFe81b67EE714e47ADa93f98542477b417A143"
+    ]
+  }
+}
